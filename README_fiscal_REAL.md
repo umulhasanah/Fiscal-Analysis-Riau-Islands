@@ -10,7 +10,7 @@
 ![Data](https://img.shields.io/badge/Data-Real%20%7C%20Official%20LRA-darkgreen)
 
 > **Author:** Umul Hasanah, S.M.  
-> **LinkedIn:** [linkedin.com/in/umul-hasanah](https://linkedin.com/in/umul-hasanah)  
+> **LinkedIn:** [linkedin.com/in/umul-hasanah](https://www.linkedin.com/in/umulhasanah/)  
 > **Tools:** Python · Pandas · Matplotlib · SQL  
 > **Data Source:** Official Budget Realization Reports (LRA) — BPKAD Riau Islands Province  
 > **Based on:** Undergraduate Thesis — Universitas Riau Kepulauan, 2024 (GPA 3.75 / Cum Laude)
@@ -220,7 +220,7 @@ Universitas Riau Kepulauan (GPA 3.75 / 4.00, Cum Laude) | Graduated March 2024
 
 4+ years of experience as Administrative Staff Coordinator at Etama Dental Clinic, Batam — with hands-on expertise in financial recording, budgeting, and operational reporting. Certified in Full Stack Data Analytics (RevoU, 2024).
 
-🔗 [LinkedIn](https://linkedin.com/in/umul-hasanah) · 💻 [GitHub](https://github.com/umul-hasanah) · ✉️ umulhasanah30@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/umulhasanah/) · 💻 [GitHub](https://github.com/umulhasanah) · ✉️ umulhasanah30@gmail.com
 
 ---
 
